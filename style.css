@@ -44,7 +44,7 @@ body {
 }
 .banner {
   background: linear-gradient(to top, transparent, rgba(0, 0, 0, 0.73)),
-    url("./banner-background.jpg");
+    url("./resources/banner-background.jpg");
   background-size: cover;
   height: 100%;
   z-index: -1;
@@ -226,7 +226,7 @@ footer p {
 /* CONTACTS */
 #contacts-body {
   overflow: hidden;
-  background: url("./contact-background.jpg");
+  background: url("./resources/contact-background.jpg");
   background-size: cover;
 }
 #contact-me-title {

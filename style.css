@@ -4,6 +4,7 @@
 }
 html {
   scroll-behavior: smooth;
+  zoom: 75%;
 }
 nav {
   display: flex;
@@ -137,8 +138,8 @@ body {
 }
 .about {
   display: flex;
-  max-width: 50vw;
-  margin: 1% 25vw;
+  max-width: 50%;
+  margin: 1% 25%;
 }
 .about p {
   max-width: 60%;
@@ -177,7 +178,7 @@ body {
   height: auto;
 }
 .translated {
-  transform: translateY(-12vh);
+  transform: translateY(-15vh);
 }
 /* .card img:hover + .card-info {
   display: block;
@@ -199,7 +200,7 @@ body {
   text-align: center;
   width: 50%;
   margin: 0 25%;
-  font-size: 1.5rem;
+  font-size: 2.5vw;
   padding: 1% 10%;
   text-decoration: none;
   cursor: pointer;
@@ -366,9 +367,9 @@ textarea {
   height: 100%;
 }
 .assignment345-frame {
-  width: 80vw;
-  height: 70vh;
-  margin: 0 10vw;
+  width: 80%;
+  height: 70%;
+  margin: 0 10%;
 }
 .assignment-78 {
   width: 90%;
@@ -391,8 +392,9 @@ textarea {
 .assignment78-description h1 {
   text-transform: uppercase;
   text-align: center;
+  white-space: nowrap;
   text-decoration: underline;
-  margin-bottom: 1%;
+  margin-bottom: 3%;
   font-size: 2.3rem;
 }
 #assignments-sidebar {

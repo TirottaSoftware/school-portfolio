@@ -152,6 +152,11 @@ body {
   height: 60%;
 }
 /* PROJECTS */
+.tooltip {
+  font-size: 1.5vw;
+  color: gray;
+  text-align: center;
+}
 .cards-container {
   display: flex;
   justify-content: center;
@@ -226,7 +231,6 @@ footer p {
 
 /* CONTACTS */
 #contacts-body {
-  overflow: hidden;
   background: url("./resources/contact-background.jpg");
   background-size: cover;
 }

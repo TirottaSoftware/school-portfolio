@@ -16,7 +16,7 @@ burger.addEventListener("click", () => {
 })
 
 window.addEventListener('scroll', () =>{
-    if(window.scrollY > banner.clientHeight){
+    if(window.scrollY > banner.clientHeight/2){
         navbar.style.background = '#0f5298'
     }
     else{

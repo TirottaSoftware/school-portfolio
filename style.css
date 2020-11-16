@@ -151,6 +151,7 @@ body {
   box-shadow: -7px 7px #3c99dc;
   height: 60%;
 }
+
 /* PROJECTS */
 .tooltip {
   font-size: 1.5vw;
@@ -325,7 +326,7 @@ textarea {
 .contact-links a:hover {
   color: #0f5298;
 }
-/* ASSIGNMENT 1 */
+/* ASSIGNMENTS*/
 .assignments-body {
   background-color: #3c99dc;
 }

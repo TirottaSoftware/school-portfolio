@@ -1,2 +1,2 @@
 # school-portfolio
-Basic School Portfolio (Fontys University, Experience Design Semester 1) 
+Basic School Portfolio (Fontys University, Semester 1) 
